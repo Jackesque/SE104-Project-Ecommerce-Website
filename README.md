@@ -4,7 +4,9 @@ Project: Ecommerce Website – SE104
 
 Board: [Link to Trello](https://trello.com/b/eq1pZ2mf/work)
 
-| Members | Student ID | Github |
+Members:
+
+| Name | Student ID | Github |
 | --- | --- | --- |
 | Trần Quang Tiến | 21522673 | [https://github.com/Jackesque](https://github.com/Jackesque) |
 | Nguyễn Quang Minh | 21522344 | [https://github.com/nqmihn](https://github.com/nqmihn) |
