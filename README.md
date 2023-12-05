@@ -5,7 +5,6 @@ Project: Ecommerce Website – SE104
 Board: [Link to Trello](https://trello.com/b/eq1pZ2mf/work)
 
 Members:
-Nguyễn Quang Minh - 21522344
 
 | Name | Student ID | Github | Role |
 | --- | --- | --- | --- |
