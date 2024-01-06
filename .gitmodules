@@ -1,0 +1,6 @@
+[submodule "se104-backend"]
+	path = se104-backend
+	url = https://github.com/nqmihn/se104-backend
+[submodule "se104-frontend"]
+	path = se104-frontend
+	url = https://github.com/Jackesque/se104-frontend
